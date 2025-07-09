@@ -5,26 +5,36 @@ repo: upptime # The name of this repository
 sites:
   - name: Wesbsite v0.7
     url: https://www.giocoliere.dev
+    icon: https://giocoliere.dev/assets/img/logo.png
   - name: Wesbsite v0.1
     url: https://gioco.is-a.dev
+    icon: https://giocoliere.dev/assets/img/logo.png
   - name: Giocoliere | Links
     url: https://links.gioco.lol
+    icon: https://giocoliere.dev/assets/img/logo.png
   - name: Giocoliere - Test Statuspage 
     url: https://test.gioco.lol
+    icon: https://giocoliere.dev/assets/img/logo.png
   - name: Humanaelitterae
     url: https://humanaelitterae.com
+    icon: https://humanaelitterae.com/img/logo.png
   - name: Modmail
     url: https://modmail.creeperhub.net
+    icon: https://giocoliere.dev/assets/creepercraft/creeperhub.png
   - name: CreeperHUB
     url: https://creeperhub.net
+    icon: https://giocoliere.dev/assets/creepercraft/creeperhub.png
   - name: creepers.sbs
     url: https://creepers.sbs
+    icon: https://creepers.sbs/assets/img/image.png
   - name: Creepercraft
     url: https://creepercraft.net
+    icon: https://giocoliere.dev/assets/creepercraft/logo.png
   - name: Otakuforge
     url: https://creeperhub.net/otakuforge
   - name: CreeperLAB
     url: https://creeperlab.org
+    icon: https://creeperlab.org/assets/img/image01.png
 
     
 
@@ -75,8 +85,23 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Wesbsite
+      href: https://giocoliere.dev
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: CreeperHUB
+      href: https://creeperhub.net
+    - title: Creeepercraft
+      href: https://creepercraft.net
+    - title: OtakuForge
+      href: https://creeperhub.net/otakuforge
+    - title: CreeperLAB
+      href: https://creeperlab.org
+    - title: Links
+      href: https://full-stack.dev/gioco
+
+
+
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
