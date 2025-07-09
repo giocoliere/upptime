@@ -9,8 +9,6 @@ sites:
     url: https://gioco.is-a.dev
   - name: Giocoliere | Links
     url: https://links.gioco.lol
-  - name: Giocoliere | Blog
-    url: https://blog.gioco.lol
   - name: Giocoliere - Test Statuspage 
     url: https://test.gioco.lol
   - name: Humanaelitterae
@@ -32,6 +30,9 @@ sites:
 
 status-website:
   favicon: https://giocoliere.dev/assets/img/logo.png
+
+  themeUrl: https://gioco.is-a.dev/status-light.css
+  
   metaTags:
     - name: "description"
       content: "Status page of Giocoliere"
