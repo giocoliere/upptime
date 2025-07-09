@@ -3,31 +3,74 @@ owner: giocoliere # Your GitHub organization or username, where this repository 
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Giocoliere
+  - name: Wesbsite v0.7
     url: https://www.giocoliere.dev
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Wesbsite v0.1
+    url: https://gioco.is-a.dev
+  - name: Giocoliere | Links
+    url: https://links.gioco.lol
+  - name: Giocoliere | Blog
+    url: https://blog.gioco.lol
+ - name: Giocoliere - Test Statuspage 
+    url: https://test.gioco.lol
+  - name: Humanaelitterae
+    url: https://humanaelitterae.com
+  - name: Modmail
+    url: https://modmail.creeperhub.net
+  - name: CreeperHUB
+    url: https://creeperhub.net
+  - name: creepers.sbs
+    url: https://creepers.sbs
+  - name: Creepercraft
+    url: https://creepercraft.net
+  - name: Otakuforge
+    url: https://creeperhub.net/otakuforge
+  - name: CreeperLAB
+    url: https://creeperlab.org
+
+    
 
 status-website:
+  favicon: https://giocoliere.dev/assets/img/logo.png
+  metaTags:
+    - name: "description"
+      content: "Status page of Giocoliere"
+    - name: "og:description"
+      content: "Status page of Giocoliere"
+    - name: "twitter:description"
+      content: "Status page of Giocoliere"
+    - name: "keywords"
+      content: "Giocoliere, Giocolieredev, Dev, CreeperHUB, Developer, Creepercraft, CreeperLAB, Programming, Gaming, Minecraft, Development, HumanaeLitterae"
+    - name: "author"
+      content: "Giocoliere"
+    - name: "og:title"
+      content: "Giocoliere | Status"
+    - name: "twitter:title"
+      content: "Giocoliere | Status"
+    - name: "robots"
+      content: "follow, index"
+    - name: "theme-color"
+      content: "#69a6ce"
+    - name: "og:image"
+      content: "https://giocoliere.dev/assets/img/preview.png"
+    - name: "twitter:image"
+      content: "https://giocoliere.dev/assets/img/preview.png"
+    - name: "twitter:card"
+      content: "summary_large_image"
+    - name: "og:type"
+      content: "website"
+    - name: "og:url"
+      content: "https://status.gioco.lol"
+    
+  
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.gioco.lol
   # baseUrl: /your-repo-name
   logoUrl: https://giocoliere.dev/assets/img/logo.png
   name: Giocoliere | Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**This** is my official Giocoliere status page, powered entirely by GitHub."
+  introMessage: Here, you'll find comprehensive updates and detailed information regarding my services, alongside direct links to my ["wesbsite v0.7"](https://giocoliere.dev).
   navbar:
     - title: Status
       href: /
