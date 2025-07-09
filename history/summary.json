@@ -59,18 +59,18 @@
     "icon": "https://giocoliere.dev/assets/img/logo.png",
     "slug": "giocoliere-test-statuspage",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "89.90%",
+    "uptimeDay": "89.90%",
+    "uptimeWeek": "89.90%",
+    "uptimeMonth": "89.90%",
+    "uptimeYear": "89.90%",
     "time": 908,
     "timeDay": 908,
     "timeWeek": 908,
     "timeMonth": 908,
     "timeYear": 908,
     "dailyMinutesDown": {
-      "2025-07-09": 0
+      "2025-07-09": 29
     }
   },
   {
