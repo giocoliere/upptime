@@ -40,9 +40,9 @@
     "url": "https://links.gioco.lol",
     "icon": "https://giocoliere.dev/assets/img/logo.png",
     "slug": "giocoliere-links",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 206,
     "timeMonth": 181,
     "timeYear": 181,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-20": 0
+    }
   },
   {
     "name": "Giocoliere - Test Statuspage",
@@ -59,11 +61,11 @@
     "icon": "https://giocoliere.dev/assets/img/logo.png",
     "slug": "giocoliere-test-statuspage",
     "status": "up",
-    "uptime": "99.17%",
+    "uptime": "99.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.06%",
-    "uptimeMonth": "99.17%",
-    "uptimeYear": "99.17%",
+    "uptimeMonth": "99.21%",
+    "uptimeYear": "99.21%",
     "time": 1273,
     "timeDay": 1730,
     "timeWeek": 1424,
