@@ -4,10 +4,10 @@
     "url": "https://www.giocoliere.dev",
     "icon": "https://giocoliere.dev/assets/img/logo.png",
     "slug": "wesbsite-v0-7",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.84%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
     "time": 352,
@@ -16,6 +16,7 @@
     "timeMonth": 352,
     "timeYear": 352,
     "dailyMinutesDown": {
+      "2025-07-23": 0,
       "2025-07-20": 15
     }
   },
@@ -86,9 +87,9 @@
     "url": "https://humanaelitterae.com",
     "icon": "https://humanaelitterae.com/img/logo.png",
     "slug": "humanaelitterae",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -97,7 +98,9 @@
     "timeWeek": 234,
     "timeMonth": 221,
     "timeYear": 221,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-23": 0
+    }
   },
   {
     "name": "Modmail",
@@ -122,18 +125,19 @@
     "url": "https://creeperhub.net",
     "icon": "https://giocoliere.dev/assets/creepercraft/creeperhub.png",
     "slug": "creeper-hub",
-    "status": "up",
-    "uptime": "97.59%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.60%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "95.36%",
-    "uptimeMonth": "97.59%",
-    "uptimeYear": "97.59%",
+    "uptimeMonth": "97.60%",
+    "uptimeYear": "97.60%",
     "time": 588,
     "timeDay": 326,
     "timeWeek": 525,
     "timeMonth": 588,
     "timeYear": 588,
     "dailyMinutesDown": {
+      "2025-07-23": 0,
       "2025-07-22": 248,
       "2025-07-21": 220
     }
@@ -179,14 +183,14 @@
     "url": "https://creeperhub.net/otakuforge",
     "icon": "https://icons.duckduckgo.com/ip3/creeperhub.net.ico",
     "slug": "otakuforge",
-    "status": "up",
-    "uptime": "96.99%",
-    "uptimeDay": "91.94%",
+    "status": "down",
+    "uptime": "97.01%",
+    "uptimeDay": "91.93%",
     "uptimeWeek": "94.21%",
-    "uptimeMonth": "96.99%",
-    "uptimeYear": "96.99%",
+    "uptimeMonth": "97.01%",
+    "uptimeYear": "97.01%",
     "time": 224,
-    "timeDay": 65,
+    "timeDay": 69,
     "timeWeek": 168,
     "timeMonth": 224,
     "timeYear": 224,
@@ -201,9 +205,9 @@
     "url": "https://creeperlab.org",
     "icon": "https://creeperlab.org/assets/img/image01.png",
     "slug": "creeper-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -212,6 +216,8 @@
     "timeWeek": 378,
     "timeMonth": 336,
     "timeYear": 336,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-23": 0
+    }
   }
 ]
