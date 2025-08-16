@@ -13,7 +13,7 @@
     "time": 376,
     "timeDay": 339,
     "timeWeek": 377,
-    "timeMonth": 383,
+    "timeMonth": 388,
     "timeYear": 376,
     "dailyMinutesDown": {
       "2025-07-23": 21,
@@ -34,7 +34,7 @@
     "time": 207,
     "timeDay": 198,
     "timeWeek": 162,
-    "timeMonth": 209,
+    "timeMonth": 213,
     "timeYear": 207,
     "dailyMinutesDown": {}
   },
@@ -52,7 +52,7 @@
     "time": 298,
     "timeDay": 310,
     "timeWeek": 338,
-    "timeMonth": 336,
+    "timeMonth": 344,
     "timeYear": 298,
     "dailyMinutesDown": {
       "2025-07-20": 19
@@ -72,7 +72,7 @@
     "time": 1289,
     "timeDay": 1493,
     "timeWeek": 1403,
-    "timeMonth": 1312,
+    "timeMonth": 1313,
     "timeYear": 1289,
     "dailyMinutesDown": {
       "2025-08-15": 56,
@@ -104,7 +104,7 @@
     "time": 204,
     "timeDay": 154,
     "timeWeek": 194,
-    "timeMonth": 201,
+    "timeMonth": 197,
     "timeYear": 204,
     "dailyMinutesDown": {
       "2025-07-23": 21
@@ -124,7 +124,7 @@
     "time": 329,
     "timeDay": 275,
     "timeWeek": 282,
-    "timeMonth": 331,
+    "timeMonth": 330,
     "timeYear": 329,
     "dailyMinutesDown": {}
   },
@@ -142,7 +142,7 @@
     "time": 397,
     "timeDay": 203,
     "timeWeek": 253,
-    "timeMonth": 330,
+    "timeMonth": 326,
     "timeYear": 397,
     "dailyMinutesDown": {
       "2025-08-11": 156,
@@ -165,7 +165,7 @@
     "time": 196,
     "timeDay": 267,
     "timeWeek": 256,
-    "timeMonth": 209,
+    "timeMonth": 212,
     "timeYear": 196,
     "dailyMinutesDown": {}
   },
@@ -181,9 +181,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 182,
-    "timeDay": 0,
-    "timeWeek": 175,
-    "timeMonth": 183,
+    "timeDay": 208,
+    "timeWeek": 180,
+    "timeMonth": 187,
     "timeYear": 182,
     "dailyMinutesDown": {}
   },
@@ -192,19 +192,19 @@
     "url": "https://creeperhub.net/otakuforge",
     "icon": "https://icons.duckduckgo.com/ip3/creeperhub.net.ico",
     "slug": "otakuforge",
-    "status": "down",
-    "uptime": "93.48%",
-    "uptimeDay": "91.81%",
-    "uptimeWeek": "87.46%",
-    "uptimeMonth": "91.81%",
-    "uptimeYear": "93.48%",
+    "status": "up",
+    "uptime": "93.47%",
+    "uptimeDay": "91.49%",
+    "uptimeWeek": "87.42%",
+    "uptimeMonth": "91.80%",
+    "uptimeYear": "93.47%",
     "time": 76,
-    "timeDay": 79,
-    "timeWeek": 62,
-    "timeMonth": 64,
+    "timeDay": 74,
+    "timeWeek": 61,
+    "timeMonth": 62,
     "timeYear": 76,
     "dailyMinutesDown": {
-      "2025-08-16": 117,
+      "2025-08-16": 122,
       "2025-08-15": 129,
       "2025-08-14": 87,
       "2025-08-13": 157,
@@ -243,7 +243,7 @@
     "time": 354,
     "timeDay": 290,
     "timeWeek": 349,
-    "timeMonth": 368,
+    "timeMonth": 366,
     "timeYear": 354,
     "dailyMinutesDown": {
       "2025-07-23": 22
