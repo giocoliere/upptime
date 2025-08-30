@@ -43,9 +43,9 @@
     "url": "https://links.gioco.lol",
     "icon": "https://giocoliere.dev/assets/img/logo.png",
     "slug": "giocoliere-links",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.52%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.78%",
@@ -55,6 +55,7 @@
     "timeMonth": 347,
     "timeYear": 321,
     "dailyMinutesDown": {
+      "2025-08-30": 0,
       "2025-08-28": 86,
       "2025-08-26": 46,
       "2025-08-25": 17,
@@ -201,18 +202,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/creeperhub.net.ico",
     "slug": "otakuforge",
     "status": "up",
-    "uptime": "94.97%",
-    "uptimeDay": "92.11%",
-    "uptimeWeek": "90.28%",
-    "uptimeMonth": "91.39%",
-    "uptimeYear": "94.97%",
+    "uptime": "94.96%",
+    "uptimeDay": "92.78%",
+    "uptimeWeek": "90.38%",
+    "uptimeMonth": "91.37%",
+    "uptimeYear": "94.96%",
     "time": 73,
     "timeDay": 86,
     "timeWeek": 74,
     "timeMonth": 64,
     "timeYear": 73,
     "dailyMinutesDown": {
-      "2025-08-30": 96,
+      "2025-08-30": 86,
       "2025-08-29": 85,
       "2025-08-28": 154,
       "2025-08-27": 157,
@@ -235,7 +236,7 @@
       "2025-08-08": 206,
       "2025-08-07": 109,
       "2025-08-06": 98,
-      "2025-08-05": 55
+      "2025-08-05": 74
     }
   },
   {
