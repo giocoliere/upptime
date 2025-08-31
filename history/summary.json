@@ -67,7 +67,7 @@
     "url": "https://test.gioco.lol",
     "icon": "https://giocoliere.dev/assets/img/logo.png",
     "slug": "giocoliere-test-statuspage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.03%",
     "uptimeDay": "97.09%",
     "uptimeWeek": "98.76%",
