@@ -13,7 +13,7 @@
     "time": 383,
     "timeDay": 0,
     "timeWeek": 424,
-    "timeMonth": 404,
+    "timeMonth": 405,
     "timeYear": 383,
     "dailyMinutesDown": {
       "2025-07-23": 21,
@@ -34,7 +34,7 @@
     "time": 197,
     "timeDay": 0,
     "timeWeek": 214,
-    "timeMonth": 181,
+    "timeMonth": 177,
     "timeYear": 197,
     "dailyMinutesDown": {}
   },
@@ -52,7 +52,7 @@
     "time": 335,
     "timeDay": 527,
     "timeWeek": 411,
-    "timeMonth": 360,
+    "timeMonth": 362,
     "timeYear": 335,
     "dailyMinutesDown": {
       "2025-08-31": 62,
@@ -113,7 +113,7 @@
     "time": 211,
     "timeDay": 0,
     "timeWeek": 263,
-    "timeMonth": 216,
+    "timeMonth": 218,
     "timeYear": 211,
     "dailyMinutesDown": {
       "2025-07-23": 21
@@ -133,7 +133,7 @@
     "time": 337,
     "timeDay": 0,
     "timeWeek": 427,
-    "timeMonth": 346,
+    "timeMonth": 347,
     "timeYear": 337,
     "dailyMinutesDown": {}
   },
@@ -151,7 +151,7 @@
     "time": 369,
     "timeDay": 0,
     "timeWeek": 311,
-    "timeMonth": 279,
+    "timeMonth": 272,
     "timeYear": 369,
     "dailyMinutesDown": {
       "2025-08-26": 21,
@@ -175,7 +175,7 @@
     "time": 266,
     "timeDay": 0,
     "timeWeek": 955,
-    "timeMonth": 342,
+    "timeMonth": 341,
     "timeYear": 266,
     "dailyMinutesDown": {}
   },
@@ -193,7 +193,7 @@
     "time": 192,
     "timeDay": 0,
     "timeWeek": 207,
-    "timeMonth": 195,
+    "timeMonth": 198,
     "timeYear": 192,
     "dailyMinutesDown": {}
   },
@@ -202,19 +202,19 @@
     "url": "https://creeperhub.net/otakuforge",
     "icon": "https://icons.duckduckgo.com/ip3/creeperhub.net.ico",
     "slug": "otakuforge",
-    "status": "down",
-    "uptime": "95.15%",
-    "uptimeDay": "92.52%",
-    "uptimeWeek": "91.64%",
-    "uptimeMonth": "91.52%",
-    "uptimeYear": "95.15%",
+    "status": "up",
+    "uptime": "95.12%",
+    "uptimeDay": "90.95%",
+    "uptimeWeek": "91.42%",
+    "uptimeMonth": "91.47%",
+    "uptimeYear": "95.12%",
     "time": 73,
-    "timeDay": 57,
-    "timeWeek": 68,
-    "timeMonth": 63,
+    "timeDay": 69,
+    "timeWeek": 69,
+    "timeMonth": 64,
     "timeYear": 73,
     "dailyMinutesDown": {
-      "2025-08-31": 108,
+      "2025-08-31": 131,
       "2025-08-30": 106,
       "2025-08-29": 85,
       "2025-08-28": 154,
@@ -251,9 +251,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 344,
-    "timeDay": 386,
+    "timeDay": 0,
     "timeWeek": 331,
-    "timeMonth": 341,
+    "timeMonth": 342,
     "timeYear": 344,
     "dailyMinutesDown": {
       "2025-07-23": 22
