@@ -213,14 +213,14 @@
     "url": "https://creeperhub.net/otakuforge",
     "icon": "https://icons.duckduckgo.com/ip3/creeperhub.net.ico",
     "slug": "otakuforge",
-    "status": "up",
-    "uptime": "96.77%",
-    "uptimeDay": "92.17%",
+    "status": "down",
+    "uptime": "96.79%",
+    "uptimeDay": "94.56%",
     "uptimeWeek": "91.80%",
-    "uptimeMonth": "92.92%",
-    "uptimeYear": "96.77%",
+    "uptimeMonth": "92.95%",
+    "uptimeYear": "96.79%",
     "time": 69,
-    "timeDay": 35,
+    "timeDay": 33,
     "timeWeek": 48,
     "timeMonth": 62,
     "timeYear": 69,
@@ -250,7 +250,7 @@
       "2025-08-21": 141,
       "2025-08-20": 195,
       "2025-08-19": 186,
-      "2025-08-18": 47
+      "2025-08-18": 31
     }
   },
   {
