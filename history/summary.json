@@ -75,7 +75,7 @@
     "slug": "giocoliere-test-statuspage",
     "status": "up",
     "uptime": "97.49%",
-    "uptimeDay": "28.80%",
+    "uptimeDay": "29.72%",
     "uptimeWeek": "84.07%",
     "uptimeMonth": "95.42%",
     "uptimeYear": "97.49%",
@@ -219,12 +219,12 @@
     "url": "https://creeperhub.net/otakuforge",
     "icon": "https://icons.duckduckgo.com/ip3/creeperhub.net.ico",
     "slug": "otakuforge",
-    "status": "up",
-    "uptime": "97.01%",
-    "uptimeDay": "92.31%",
+    "status": "down",
+    "uptime": "97.09%",
+    "uptimeDay": "92.30%",
     "uptimeWeek": "91.48%",
-    "uptimeMonth": "93.02%",
-    "uptimeYear": "97.01%",
+    "uptimeMonth": "93.21%",
+    "uptimeYear": "97.09%",
     "time": 70,
     "timeDay": 199,
     "timeWeek": 69,
@@ -255,7 +255,7 @@
       "2025-08-28": 154,
       "2025-08-27": 157,
       "2025-08-25": 234,
-      "2025-08-24": 253
+      "2025-08-24": 171
     }
   },
   {
