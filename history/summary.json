@@ -13,7 +13,7 @@
     "time": 406,
     "timeDay": 346,
     "timeWeek": 400,
-    "timeMonth": 451,
+    "timeMonth": 450,
     "timeYear": 406,
     "dailyMinutesDown": {
       "2025-09-16": 19,
@@ -37,7 +37,7 @@
     "time": 194,
     "timeDay": 128,
     "timeWeek": 146,
-    "timeMonth": 191,
+    "timeMonth": 189,
     "timeYear": 194,
     "dailyMinutesDown": {}
   },
@@ -47,15 +47,15 @@
     "icon": "https://giocoliere.dev/assets/img/logo.png",
     "slug": "giocoliere-links",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.75%",
+    "uptimeYear": "99.76%",
     "time": 352,
     "timeDay": 589,
     "timeWeek": 478,
-    "timeMonth": 401,
+    "timeMonth": 406,
     "timeYear": 352,
     "dailyMinutesDown": {
       "2025-09-08": 25,
@@ -77,12 +77,12 @@
     "uptime": "97.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "95.78%",
+    "uptimeMonth": "95.88%",
     "uptimeYear": "97.85%",
     "time": 922,
     "timeDay": 551,
     "timeWeek": 534,
-    "timeMonth": 378,
+    "timeMonth": 377,
     "timeYear": 922,
     "dailyMinutesDown": {
       "2025-10-02": 18,
@@ -134,7 +134,7 @@
     "time": 209,
     "timeDay": 87,
     "timeWeek": 197,
-    "timeMonth": 202,
+    "timeMonth": 192,
     "timeYear": 209,
     "dailyMinutesDown": {
       "2025-09-12": 29,
@@ -155,7 +155,7 @@
     "time": 333,
     "timeDay": 285,
     "timeWeek": 295,
-    "timeMonth": 333,
+    "timeMonth": 335,
     "timeYear": 333,
     "dailyMinutesDown": {}
   },
@@ -173,7 +173,7 @@
     "time": 338,
     "timeDay": 204,
     "timeWeek": 306,
-    "timeMonth": 286,
+    "timeMonth": 287,
     "timeYear": 338,
     "dailyMinutesDown": {
       "2025-09-21": 16,
@@ -218,7 +218,7 @@
     "time": 193,
     "timeDay": 335,
     "timeWeek": 263,
-    "timeMonth": 191,
+    "timeMonth": 192,
     "timeYear": 193,
     "dailyMinutesDown": {}
   },
@@ -283,7 +283,7 @@
     "time": 341,
     "timeDay": 394,
     "timeWeek": 342,
-    "timeMonth": 330,
+    "timeMonth": 334,
     "timeYear": 341,
     "dailyMinutesDown": {
       "2025-07-23": 22
