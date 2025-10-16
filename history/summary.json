@@ -213,9 +213,9 @@
     "url": "https://creepercraft.net",
     "icon": "https://giocoliere.dev/assets/creepercraft/logo.png",
     "slug": "creepercraft",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -224,7 +224,9 @@
     "timeWeek": 233,
     "timeMonth": 208,
     "timeYear": 198,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-16": 0
+    }
   },
   {
     "name": "Otakuforge",
@@ -232,11 +234,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/creeperhub.net.ico",
     "slug": "otakuforge",
     "status": "up",
-    "uptime": "98.05%",
+    "uptime": "98.06%",
     "uptimeDay": "95.37%",
     "uptimeWeek": "95.28%",
     "uptimeMonth": "93.69%",
-    "uptimeYear": "98.05%",
+    "uptimeYear": "98.06%",
     "time": 85,
     "timeDay": 42,
     "timeWeek": 63,
