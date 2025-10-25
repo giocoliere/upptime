@@ -135,9 +135,9 @@
     "url": "https://humanaelitterae.com",
     "icon": "https://humanaelitterae.com/img/logo.png",
     "slug": "humanaelitterae",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.08%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.84%",
@@ -147,6 +147,7 @@
     "timeMonth": 704,
     "timeYear": 382,
     "dailyMinutesDown": {
+      "2025-10-25": 0,
       "2025-10-22": 17,
       "2025-10-21": 21,
       "2025-10-20": 37,
@@ -254,17 +255,17 @@
     "slug": "otakuforge",
     "status": "up",
     "uptime": "98.08%",
-    "uptimeDay": "97.79%",
-    "uptimeWeek": "92.15%",
-    "uptimeMonth": "93.78%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "92.46%",
+    "uptimeMonth": "93.81%",
     "uptimeYear": "98.08%",
     "time": 139,
     "timeDay": 106,
-    "timeWeek": 458,
+    "timeWeek": 465,
     "timeMonth": 320,
     "timeYear": 139,
     "dailyMinutesDown": {
-      "2025-10-25": 32,
+      "2025-10-25": 22,
       "2025-10-24": 85,
       "2025-10-23": 181,
       "2025-10-22": 86,
@@ -296,7 +297,7 @@
       "2025-09-26": 90,
       "2025-09-25": 93,
       "2025-09-24": 100,
-      "2025-09-23": 61
+      "2025-09-23": 77
     }
   },
   {
