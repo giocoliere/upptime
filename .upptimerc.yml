@@ -84,7 +84,7 @@ status-website:
   logoUrl: https://giocoliere.dev/assets/img/logo.png
   name: Giocoliere | Status
   introTitle: "**This** is my official Giocoliere status page, powered entirely by GitHub."
-  introMessage: "Here, you'll find comprehensive updates and detailed information regarding my services, alongside direct links to my ["wesbsite v0.7"](https://giocoliere.dev)."
+  introMessage: "Here, you'll find comprehensive updates and detailed information regarding my services, alongside direct links to my [wesbsite v0.7](https://giocoliere.dev)."
   navbar:
     - title: Status
       href: /
