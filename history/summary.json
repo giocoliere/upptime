@@ -90,7 +90,7 @@
     "uptimeYear": "98.34%",
     "time": 758,
     "timeDay": 269,
-    "timeWeek": 359,
+    "timeWeek": 372,
     "timeMonth": 305,
     "timeYear": 758,
     "dailyMinutesDown": {
@@ -143,9 +143,9 @@
     "url": "https://humanaelitterae.com",
     "icon": "https://humanaelitterae.com/img/logo.png",
     "slug": "humanaelitterae",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.69%",
     "uptimeMonth": "98.83%",
     "uptimeYear": "99.68%",
@@ -155,6 +155,7 @@
     "timeMonth": 955,
     "timeYear": 507,
     "dailyMinutesDown": {
+      "2025-11-09": 0,
       "2025-11-05": 60,
       "2025-11-04": 49,
       "2025-11-03": 23,
@@ -290,17 +291,16 @@
     "slug": "otakuforge",
     "status": "up",
     "uptime": "98.35%",
-    "uptimeDay": "97.53%",
-    "uptimeWeek": "96.47%",
-    "uptimeMonth": "94.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.57%",
+    "uptimeMonth": "94.99%",
     "uptimeYear": "98.35%",
     "time": 162,
-    "timeDay": 78,
+    "timeDay": 79,
     "timeWeek": 97,
     "timeMonth": 444,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2025-11-09": 10,
       "2025-11-08": 113,
       "2025-11-07": 22,
       "2025-11-06": 50,
@@ -338,7 +338,7 @@
       "2025-10-05": 146,
       "2025-10-04": 50,
       "2025-10-03": 128,
-      "2025-10-02": 67
+      "2025-10-02": 86
     }
   },
   {
