@@ -149,7 +149,7 @@
     "url": "https://humanaelitterae.com",
     "icon": "https://humanaelitterae.com/img/logo.png",
     "slug": "humanaelitterae",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
     "uptimeDay": "96.95%",
     "uptimeWeek": "98.35%",
@@ -313,7 +313,7 @@
     "time": 157,
     "timeDay": 59,
     "timeWeek": 68,
-    "timeMonth": 242,
+    "timeMonth": 241,
     "timeYear": 157,
     "dailyMinutesDown": {
       "2025-11-20": 81,
