@@ -4,7 +4,7 @@
     "url": "https://www.giocoliere.dev",
     "icon": "https://giocoliere.dev/assets/img/logo.png",
     "slug": "wesbsite-v0-7",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -312,9 +312,9 @@
     "slug": "otakuforge",
     "status": "up",
     "uptime": "98.41%",
-    "uptimeDay": "97.76%",
-    "uptimeWeek": "97.07%",
-    "uptimeMonth": "96.22%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "97.19%",
+    "uptimeMonth": "96.25%",
     "uptimeYear": "98.41%",
     "time": 156,
     "timeDay": 71,
@@ -322,7 +322,6 @@
     "timeMonth": 245,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2025-11-23": 12,
       "2025-11-22": 21,
       "2025-11-21": 17,
       "2025-11-20": 81,
@@ -366,7 +365,7 @@
       "2025-10-10": 60,
       "2025-10-09": 48,
       "2025-10-08": 63,
-      "2025-10-07": 49
+      "2025-10-07": 70
     }
   },
   {
