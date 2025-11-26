@@ -13,7 +13,7 @@
     "time": 525,
     "timeDay": 36,
     "timeWeek": 941,
-    "timeMonth": 843,
+    "timeMonth": 866,
     "timeYear": 525,
     "dailyMinutesDown": {
       "2025-11-24": 60,
@@ -46,7 +46,7 @@
     "time": 204,
     "timeDay": 190,
     "timeWeek": 192,
-    "timeMonth": 209,
+    "timeMonth": 212,
     "timeYear": 204,
     "dailyMinutesDown": {}
   },
@@ -63,8 +63,8 @@
     "uptimeYear": "99.78%",
     "time": 369,
     "timeDay": 592,
-    "timeWeek": 337,
-    "timeMonth": 353,
+    "timeWeek": 361,
+    "timeMonth": 350,
     "timeYear": 369,
     "dailyMinutesDown": {
       "2025-11-11": 99,
@@ -86,7 +86,7 @@
     "url": "https://test.gioco.lol",
     "icon": "https://giocoliere.dev/assets/img/logo.png",
     "slug": "giocoliere-test-statuspage",
-    "status": "up",
+    "status": "down",
     "uptime": "98.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.27%",
@@ -95,7 +95,7 @@
     "time": 710,
     "timeDay": 343,
     "timeWeek": 362,
-    "timeMonth": 336,
+    "timeMonth": 339,
     "timeYear": 710,
     "dailyMinutesDown": {
       "2025-11-25": 31,
@@ -164,7 +164,7 @@
     "time": 641,
     "timeDay": 185,
     "timeWeek": 1324,
-    "timeMonth": 1128,
+    "timeMonth": 1154,
     "timeYear": 641,
     "dailyMinutesDown": {
       "2025-11-26": 25,
@@ -212,7 +212,7 @@
     "time": 286,
     "timeDay": 171,
     "timeWeek": 202,
-    "timeMonth": 286,
+    "timeMonth": 281,
     "timeYear": 286,
     "dailyMinutesDown": {}
   },
@@ -230,7 +230,7 @@
     "time": 358,
     "timeDay": 543,
     "timeWeek": 364,
-    "timeMonth": 358,
+    "timeMonth": 360,
     "timeYear": 358,
     "dailyMinutesDown": {}
   },
@@ -248,7 +248,7 @@
     "time": 341,
     "timeDay": 252,
     "timeWeek": 244,
-    "timeMonth": 414,
+    "timeMonth": 423,
     "timeYear": 341,
     "dailyMinutesDown": {
       "2025-11-09": 19,
@@ -279,7 +279,7 @@
     "time": 244,
     "timeDay": 140,
     "timeWeek": 161,
-    "timeMonth": 291,
+    "timeMonth": 290,
     "timeYear": 244,
     "dailyMinutesDown": {
       "2025-09-22": 21
@@ -299,7 +299,7 @@
     "time": 216,
     "timeDay": 190,
     "timeWeek": 221,
-    "timeMonth": 262,
+    "timeMonth": 261,
     "timeYear": 216,
     "dailyMinutesDown": {
       "2025-11-23": 25,
@@ -324,7 +324,7 @@
     "time": 154,
     "timeDay": 53,
     "timeWeek": 64,
-    "timeMonth": 70,
+    "timeMonth": 71,
     "timeYear": 154,
     "dailyMinutesDown": {
       "2025-11-26": 20,
@@ -388,7 +388,7 @@
     "time": 402,
     "timeDay": 97,
     "timeWeek": 341,
-    "timeMonth": 465,
+    "timeMonth": 477,
     "timeYear": 402,
     "dailyMinutesDown": {
       "2025-07-23": 22
