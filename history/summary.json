@@ -231,18 +231,18 @@
     "icon": "https://creeperhub.net/logo.png",
     "slug": "modmail-status-creeper-hub",
     "status": "down",
-    "uptime": "99.30%",
-    "uptimeDay": "72.78%",
-    "uptimeWeek": "96.11%",
-    "uptimeMonth": "99.11%",
-    "uptimeYear": "99.30%",
+    "uptime": "99.27%",
+    "uptimeDay": "71.54%",
+    "uptimeWeek": "95.93%",
+    "uptimeMonth": "99.06%",
+    "uptimeYear": "99.27%",
     "time": 351,
     "timeDay": 307,
     "timeWeek": 333,
     "timeMonth": 370,
     "timeYear": 351,
     "dailyMinutesDown": {
-      "2025-12-04": 392
+      "2025-12-04": 410
     }
   },
   {
@@ -329,16 +329,16 @@
     "url": "https://creeperhub.net/otakuforge",
     "icon": "https://icons.duckduckgo.com/ip3/creeperhub.net.ico",
     "slug": "otakuforge",
-    "status": "up",
-    "uptime": "98.52%",
-    "uptimeDay": "90.48%",
+    "status": "down",
+    "uptime": "98.53%",
+    "uptimeDay": "90.46%",
     "uptimeWeek": "94.99%",
     "uptimeMonth": "96.17%",
-    "uptimeYear": "98.52%",
+    "uptimeYear": "98.53%",
     "time": 150,
     "timeDay": 58,
     "timeWeek": 53,
-    "timeMonth": 68,
+    "timeMonth": 66,
     "timeYear": 150,
     "dailyMinutesDown": {
       "2025-12-04": 138,
@@ -385,7 +385,7 @@
       "2025-10-20": 132,
       "2025-10-19": 91,
       "2025-10-18": 130,
-      "2025-10-17": 44
+      "2025-10-17": 17
     }
   },
   {
