@@ -230,9 +230,9 @@
     "url": "https://modmail.creeperhub.net",
     "icon": "https://creeperhub.net/logo.png",
     "slug": "modmail-status-creeper-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -241,7 +241,9 @@
     "timeWeek": 333,
     "timeMonth": 370,
     "timeYear": 351,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-04": 0
+    }
   },
   {
     "name": "CreeperHUB",
@@ -331,7 +333,7 @@
     "uptime": "98.51%",
     "uptimeDay": "94.27%",
     "uptimeWeek": "95.41%",
-    "uptimeMonth": "96.29%",
+    "uptimeMonth": "96.34%",
     "uptimeYear": "98.51%",
     "time": 151,
     "timeDay": 77,
