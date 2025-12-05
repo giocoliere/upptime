@@ -212,18 +212,20 @@
     "url": "https://status.jukebox.creeperhub.net",
     "icon": "https://creeperhub.net/logo.png",
     "slug": "lavalink-status-creeper-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 294,
-    "timeDay": 405,
-    "timeWeek": 367,
-    "timeMonth": 299,
-    "timeYear": 294,
-    "dailyMinutesDown": {}
+    "time": 292,
+    "timeDay": 294,
+    "timeWeek": 344,
+    "timeMonth": 296,
+    "timeYear": 292,
+    "dailyMinutesDown": {
+      "2025-12-05": 2
+    }
   },
   {
     "name": "Modmail Status - CreeperHUB",
@@ -231,18 +233,18 @@
     "icon": "https://creeperhub.net/logo.png",
     "slug": "modmail-status-creeper-hub",
     "status": "down",
-    "uptime": "98.23%",
-    "uptimeDay": "30.14%",
-    "uptimeWeek": "90.02%",
-    "uptimeMonth": "97.70%",
-    "uptimeYear": "98.23%",
+    "uptime": "98.09%",
+    "uptimeDay": "24.70%",
+    "uptimeWeek": "89.24%",
+    "uptimeMonth": "97.52%",
+    "uptimeYear": "98.09%",
     "time": 351,
     "timeDay": 0,
     "timeWeek": 336,
     "timeMonth": 368,
     "timeYear": 351,
     "dailyMinutesDown": {
-      "2025-12-05": 460,
+      "2025-12-05": 538,
       "2025-12-04": 546
     }
   },
@@ -330,14 +332,14 @@
     "url": "https://creeperhub.net/otakuforge",
     "icon": "https://icons.duckduckgo.com/ip3/creeperhub.net.ico",
     "slug": "otakuforge",
-    "status": "up",
-    "uptime": "98.50%",
-    "uptimeDay": "78.86%",
+    "status": "down",
+    "uptime": "98.51%",
+    "uptimeDay": "81.38%",
     "uptimeWeek": "93.65%",
     "uptimeMonth": "95.79%",
-    "uptimeYear": "98.50%",
+    "uptimeYear": "98.51%",
     "time": 150,
-    "timeDay": 56,
+    "timeDay": 55,
     "timeWeek": 52,
     "timeMonth": 62,
     "timeYear": 150,
@@ -386,7 +388,7 @@
       "2025-10-21": 143,
       "2025-10-20": 132,
       "2025-10-19": 91,
-      "2025-10-18": 42
+      "2025-10-18": 21
     }
   },
   {
