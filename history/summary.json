@@ -79,18 +79,18 @@
     "icon": "https://giocoliere.dev/assets/img/logo.png",
     "slug": "giocoliere-links",
     "status": "down",
-    "uptime": "63.54%",
+    "uptime": "63.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "63.54%",
+    "uptimeYear": "63.52%",
     "time": 369,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 369,
     "dailyMinutesDown": {
-      "2026-03-01": 168,
+      "2026-03-01": 274,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
@@ -388,18 +388,19 @@
     "url": "https://creeperhub.net",
     "icon": "https://giocoliere.dev/assets/creepercraft/creeperhub.png",
     "slug": "creeper-hub",
-    "status": "up",
-    "uptime": "98.36%",
-    "uptimeDay": "94.26%",
-    "uptimeWeek": "95.96%",
+    "status": "down",
+    "uptime": "98.53%",
+    "uptimeDay": "94.22%",
+    "uptimeWeek": "95.95%",
     "uptimeMonth": "93.73%",
-    "uptimeYear": "98.36%",
+    "uptimeYear": "98.53%",
     "time": 940,
     "timeDay": 1476,
     "timeWeek": 1474,
     "timeMonth": 1634,
     "timeYear": 940,
     "dailyMinutesDown": {
+      "2026-03-01": 1,
       "2026-02-28": 83,
       "2026-02-27": 28,
       "2026-02-26": 53,
@@ -457,7 +458,7 @@
       "2025-12-12": 23,
       "2025-12-11": 60,
       "2025-12-10": 26,
-      "2025-12-07": 615
+      "2025-12-07": 50
     }
   },
   {
@@ -513,9 +514,9 @@
     "url": "https://creeperhub.net/otakuforge",
     "icon": "https://icons.duckduckgo.com/ip3/creeperhub.net.ico",
     "slug": "otakuforge",
-    "status": "up",
+    "status": "down",
     "uptime": "98.42%",
-    "uptimeDay": "94.31%",
+    "uptimeDay": "94.28%",
     "uptimeWeek": "95.98%",
     "uptimeMonth": "94.36%",
     "uptimeYear": "98.42%",
@@ -525,6 +526,7 @@
     "timeMonth": 1056,
     "timeYear": 262,
     "dailyMinutesDown": {
+      "2026-03-01": 0,
       "2026-02-28": 81,
       "2026-02-27": 28,
       "2026-02-26": 53,
@@ -584,7 +586,7 @@
       "2025-12-10": 26,
       "2025-12-07": 615,
       "2025-12-06": 19,
-      "2025-12-05": 79
+      "2025-12-05": 50
     }
   },
   {
