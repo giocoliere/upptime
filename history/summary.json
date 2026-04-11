@@ -6,7 +6,7 @@
     "slug": "wesbsite-v0-7",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "88.74%",
+    "uptimeDay": "90.92%",
     "uptimeWeek": "96.78%",
     "uptimeMonth": "98.86%",
     "uptimeYear": "99.44%",
@@ -98,7 +98,7 @@
     "timeMonth": 0,
     "timeYear": 369,
     "dailyMinutesDown": {
-      "2026-04-11": 163,
+      "2026-04-11": 195,
       "2026-04-10": 1440,
       "2026-04-09": 1440,
       "2026-04-08": 1440,
@@ -254,7 +254,7 @@
     "time": 550,
     "timeDay": 331,
     "timeWeek": 285,
-    "timeMonth": 303,
+    "timeMonth": 306,
     "timeYear": 550,
     "dailyMinutesDown": {
       "2026-04-10": 82,
@@ -444,18 +444,19 @@
     "url": "https://creeperhub.net",
     "icon": "https://giocoliere.dev/assets/creepercraft/creeperhub.png",
     "slug": "creeper-hub",
-    "status": "up",
-    "uptime": "98.55%",
-    "uptimeDay": "89.43%",
-    "uptimeWeek": "96.66%",
+    "status": "down",
+    "uptime": "98.56%",
+    "uptimeDay": "89.39%",
+    "uptimeWeek": "96.65%",
     "uptimeMonth": "97.61%",
-    "uptimeYear": "98.55%",
+    "uptimeYear": "98.56%",
     "time": 1061,
     "timeDay": 1894,
     "timeWeek": 1942,
     "timeMonth": 1718,
     "timeYear": 1061,
     "dailyMinutesDown": {
+      "2026-04-11": 1,
       "2026-04-10": 152,
       "2026-04-09": 52,
       "2026-04-07": 57,
@@ -512,8 +513,7 @@
       "2026-01-21": 37,
       "2026-01-20": 34,
       "2026-01-19": 58,
-      "2026-01-18": 30,
-      "2026-01-17": 20
+      "2026-01-18": 30
     }
   },
   {
@@ -569,18 +569,19 @@
     "url": "https://creeperhub.net/otakuforge",
     "icon": "https://icons.duckduckgo.com/ip3/creeperhub.net.ico",
     "slug": "otakuforge",
-    "status": "up",
-    "uptime": "98.59%",
-    "uptimeDay": "89.46%",
+    "status": "down",
+    "uptime": "98.60%",
+    "uptimeDay": "89.43%",
     "uptimeWeek": "96.67%",
     "uptimeMonth": "97.62%",
-    "uptimeYear": "98.59%",
+    "uptimeYear": "98.60%",
     "time": 296,
     "timeDay": 996,
     "timeWeek": 791,
     "timeMonth": 776,
     "timeYear": 296,
     "dailyMinutesDown": {
+      "2026-04-11": 0,
       "2026-04-10": 152,
       "2026-04-09": 52,
       "2026-04-07": 57,
@@ -639,8 +640,7 @@
       "2026-01-19": 58,
       "2026-01-18": 29,
       "2026-01-17": 56,
-      "2026-01-16": 62,
-      "2026-01-14": 36
+      "2026-01-16": 62
     }
   },
   {
