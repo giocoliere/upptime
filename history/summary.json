@@ -87,18 +87,18 @@
     "icon": "https://giocoliere.dev/assets/img/logo.png",
     "slug": "giocoliere-links",
     "status": "down",
-    "uptime": "53.31%",
+    "uptime": "53.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "53.31%",
+    "uptimeYear": "53.28%",
     "time": 369,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 369,
     "dailyMinutesDown": {
-      "2026-04-15": 177,
+      "2026-04-15": 349,
       "2026-04-14": 1440,
       "2026-04-13": 1440,
       "2026-04-12": 1440,
@@ -448,18 +448,19 @@
     "url": "https://creeperhub.net",
     "icon": "https://giocoliere.dev/assets/creepercraft/creeperhub.png",
     "slug": "creeper-hub",
-    "status": "up",
-    "uptime": "98.49%",
-    "uptimeDay": "84.10%",
-    "uptimeWeek": "91.69%",
+    "status": "down",
+    "uptime": "98.53%",
+    "uptimeDay": "84.06%",
+    "uptimeWeek": "91.68%",
     "uptimeMonth": "96.61%",
-    "uptimeYear": "98.49%",
+    "uptimeYear": "98.53%",
     "time": 1079,
     "timeDay": 1703,
     "timeWeek": 1786,
     "timeMonth": 1722,
     "timeYear": 1079,
     "dailyMinutesDown": {
+      "2026-04-15": 1,
       "2026-04-14": 229,
       "2026-04-12": 189,
       "2026-04-11": 215,
@@ -511,8 +512,7 @@
       "2026-02-03": 76,
       "2026-02-02": 195,
       "2026-01-31": 282,
-      "2026-01-30": 190,
-      "2026-01-29": 4
+      "2026-01-30": 47
     }
   },
   {
@@ -568,9 +568,9 @@
     "url": "https://creeperhub.net/otakuforge",
     "icon": "https://icons.duckduckgo.com/ip3/creeperhub.net.ico",
     "slug": "otakuforge",
-    "status": "up",
+    "status": "down",
     "uptime": "98.54%",
-    "uptimeDay": "84.15%",
+    "uptimeDay": "84.13%",
     "uptimeWeek": "91.72%",
     "uptimeMonth": "96.63%",
     "uptimeYear": "98.54%",
@@ -580,6 +580,7 @@
     "timeMonth": 793,
     "timeYear": 303,
     "dailyMinutesDown": {
+      "2026-04-15": 0,
       "2026-04-14": 229,
       "2026-04-12": 187,
       "2026-04-11": 215,
@@ -634,8 +635,7 @@
       "2026-01-30": 191,
       "2026-01-29": 4,
       "2026-01-28": 52,
-      "2026-01-26": 41,
-      "2026-01-25": 18
+      "2026-01-26": 41
     }
   },
   {
