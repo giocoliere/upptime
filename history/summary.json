@@ -92,11 +92,11 @@
     "icon": "https://giocoliere.dev/assets/img/logo.png",
     "slug": "giocoliere-links",
     "status": "down",
-    "uptime": "44.15%",
+    "uptime": "44.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "44.15%",
+    "uptimeYear": "44.13%",
     "time": 369,
     "timeDay": 0,
     "timeWeek": 0,
@@ -115,7 +115,7 @@
       "2025-10-29": 16,
       "2025-11-11": 99,
       "2025-11-10": 6,
-      "2026-06-12": 110,
+      "2026-06-12": 267,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
@@ -515,11 +515,11 @@
     "icon": "https://giocoliere.dev/assets/creepercraft/creeperhub.png",
     "slug": "creeper-hub",
     "status": "down",
-    "uptime": "98.09%",
+    "uptime": "98.06%",
     "uptimeDay": "47.69%",
-    "uptimeWeek": "70.73%",
-    "uptimeMonth": "89.48%",
-    "uptimeYear": "98.09%",
+    "uptimeWeek": "69.18%",
+    "uptimeMonth": "89.12%",
+    "uptimeYear": "98.06%",
     "time": 1183,
     "timeDay": 1453,
     "timeWeek": 1730,
@@ -579,7 +579,7 @@
       "2026-06-09": 260,
       "2026-06-10": 103,
       "2026-06-11": 813,
-      "2026-06-12": 25
+      "2026-06-12": 182
     }
   },
   {
@@ -636,11 +636,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/creeperhub.net.ico",
     "slug": "otakuforge",
     "status": "down",
-    "uptime": "98.12%",
+    "uptime": "98.08%",
     "uptimeDay": "48.69%",
-    "uptimeWeek": "71.54%",
-    "uptimeMonth": "89.77%",
-    "uptimeYear": "98.12%",
+    "uptimeWeek": "69.99%",
+    "uptimeMonth": "89.41%",
+    "uptimeYear": "98.08%",
     "time": 365,
     "timeDay": 1279,
     "timeWeek": 1493,
@@ -700,7 +700,7 @@
       "2026-06-09": 255,
       "2026-06-10": 98,
       "2026-06-11": 799,
-      "2026-06-12": 20
+      "2026-06-12": 177
     }
   },
   {
