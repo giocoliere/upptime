@@ -92,11 +92,11 @@
     "icon": "https://giocoliere.dev/assets/img/logo.png",
     "slug": "giocoliere-links",
     "status": "down",
-    "uptime": "41.62%",
+    "uptime": "41.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "41.62%",
+    "uptimeYear": "41.60%",
     "time": 369,
     "timeDay": 0,
     "timeWeek": 0,
@@ -115,7 +115,7 @@
       "2025-10-29": 16,
       "2025-11-11": 99,
       "2025-11-10": 6,
-      "2026-07-02": 751,
+      "2026-07-02": 1019,
       "2026-07-01": 1440,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
@@ -534,19 +534,18 @@
     "url": "https://creeperhub.net",
     "icon": "https://giocoliere.dev/assets/creepercraft/creeperhub.png",
     "slug": "creeper-hub",
-    "status": "up",
-    "uptime": "97.35%",
-    "uptimeDay": "92.25%",
-    "uptimeWeek": "88.12%",
-    "uptimeMonth": "77.06%",
-    "uptimeYear": "97.35%",
+    "status": "down",
+    "uptime": "97.36%",
+    "uptimeDay": "91.89%",
+    "uptimeWeek": "88.06%",
+    "uptimeMonth": "77.04%",
+    "uptimeYear": "97.36%",
     "time": 1219,
     "timeDay": 1811,
     "timeWeek": 1609,
     "timeMonth": 1655,
     "timeYear": 1219,
     "dailyMinutesDown": {
-      "2026-03-27": 59,
       "2026-03-30": 154,
       "2026-04-01": 61,
       "2026-04-04": 76,
@@ -600,7 +599,7 @@
       "2026-06-29": 104,
       "2026-06-30": 216,
       "2026-07-01": 388,
-      "2026-07-02": 112
+      "2026-07-02": 117
     }
   },
   {
@@ -658,9 +657,9 @@
     "url": "https://creeperhub.net/otakuforge",
     "icon": "https://icons.duckduckgo.com/ip3/creeperhub.net.ico",
     "slug": "otakuforge",
-    "status": "up",
+    "status": "down",
     "uptime": "97.40%",
-    "uptimeDay": "92.59%",
+    "uptimeDay": "92.55%",
     "uptimeWeek": "88.68%",
     "uptimeMonth": "77.73%",
     "uptimeYear": "97.40%",
@@ -670,7 +669,6 @@
     "timeMonth": 1467,
     "timeYear": 404,
     "dailyMinutesDown": {
-      "2026-03-22": 20,
       "2026-03-27": 59,
       "2026-03-30": 153,
       "2026-04-01": 61,
@@ -726,7 +724,7 @@
       "2026-06-29": 87,
       "2026-06-30": 200,
       "2026-07-01": 384,
-      "2026-07-02": 107
+      "2026-07-02": 108
     }
   },
   {
