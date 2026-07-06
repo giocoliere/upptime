@@ -10,10 +10,10 @@ sites:
     url: https://gioco.is-a.dev
     icon: https://giocoliere.dev/assets/img/logo.png
   - name: Giocoliere | Links
-    url: https://links.gioco.lol
+    url: https://bio.gioco.help
     icon: https://giocoliere.dev/assets/img/logo.png
-  - name: Giocoliere - Test Statuspage 
-    url: https://test.gioco.lol
+  - name: Giocoliere - gioco.help 
+    url: https://gioco.help
     icon: https://giocoliere.dev/assets/img/logo.png
   - name: Humanaelitterae
     url: https://humanaelitterae.com
