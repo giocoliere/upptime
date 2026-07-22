@@ -4,9 +4,9 @@
     "url": "https://www.giocoliere.dev",
     "icon": "https://giocoliere.dev/assets/img/logo.png",
     "slug": "wesbsite-v0-7",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.52%",
@@ -62,7 +62,8 @@
       "2026-04-22": 54,
       "2026-04-27": 54,
       "2026-05-04": 58,
-      "2026-05-10": 109
+      "2026-05-10": 109,
+      "2026-07-22": 0
     }
   },
   {
@@ -91,10 +92,10 @@
     "icon": "https://giocoliere.dev/assets/img/logo.png",
     "slug": "giocoliere-links",
     "status": "up",
-    "uptime": "43.51%",
+    "uptime": "43.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.33%",
-    "uptimeMonth": "51.63%",
+    "uptimeMonth": "53.94%",
     "uptimeYear": "41.60%",
     "time": 534,
     "timeDay": 1809,
@@ -465,7 +466,7 @@
     "timeDay": 1807,
     "timeWeek": 1686,
     "timeMonth": 1682,
-    "timeYear": 1263,
+    "timeYear": 1264,
     "dailyMinutesDown": {
       "2026-04-14": 56,
       "2026-04-15": 218,
@@ -589,7 +590,7 @@
     "timeDay": 1700,
     "timeWeek": 1547,
     "timeMonth": 1467,
-    "timeYear": 435,
+    "timeYear": 437,
     "dailyMinutesDown": {
       "2026-04-14": 154,
       "2026-04-15": 217,
