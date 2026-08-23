@@ -92,7 +92,7 @@
     "icon": "https://giocoliere.dev/assets/img/logo.png",
     "slug": "giocoliere-links",
     "status": "up",
-    "uptime": "47.98%",
+    "uptime": "47.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
@@ -456,16 +456,16 @@
     "url": "https://creeperhub.net",
     "icon": "https://giocoliere.dev/assets/creepercraft/creeperhub.png",
     "slug": "creeper-hub",
-    "status": "down",
+    "status": "up",
     "uptime": "97.67%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "98.90%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "98.86%",
     "uptimeYear": "97.38%",
     "time": 1266,
-    "timeDay": 1246,
-    "timeWeek": 1598,
-    "timeMonth": 1550,
+    "timeDay": 1410,
+    "timeWeek": 1595,
+    "timeMonth": 1551,
     "timeYear": 1335,
     "dailyMinutesDown": {
       "2026-04-21": 289,
@@ -525,7 +525,7 @@
       "2026-08-14": 27,
       "2026-08-15": 24,
       "2026-08-18": 16,
-      "2026-08-23": 5
+      "2026-08-23": 19
     }
   },
   {
@@ -583,17 +583,17 @@
     "url": "https://creeperhub.net/otakuforge",
     "icon": "https://icons.duckduckgo.com/ip3/creeperhub.net.ico",
     "slug": "otakuforge",
-    "status": "down",
-    "uptime": "97.72%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.03%",
+    "status": "up",
+    "uptime": "97.71%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.00%",
     "uptimeYear": "97.43%",
-    "time": 502,
-    "timeDay": 1103,
-    "timeWeek": 1528,
+    "time": 503,
+    "timeDay": 1256,
+    "timeWeek": 1516,
     "timeMonth": 1398,
-    "timeYear": 538,
+    "timeYear": 539,
     "dailyMinutesDown": {
       "2026-04-19": 47,
       "2026-04-20": 109,
@@ -653,7 +653,7 @@
       "2026-08-08": 69,
       "2026-08-14": 22,
       "2026-08-15": 19,
-      "2026-08-23": 0
+      "2026-08-23": 15
     }
   },
   {
