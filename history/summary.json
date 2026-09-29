@@ -88,13 +88,13 @@
     "url": "https://bio.gioco.help",
     "icon": "https://giocoliere.dev/assets/img/logo.png",
     "slug": "giocoliere-links",
-    "status": "up",
-    "uptime": "52.25%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "52.26%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "41.65%",
-    "time": 1151,
+    "time": 1155,
     "timeDay": 1841,
     "timeWeek": 3276,
     "timeMonth": 2245,
@@ -320,7 +320,8 @@
       "2025-12-05": 39,
       "2026-07-21": 64,
       "2026-07-20": 3,
-      "2026-08-18": 21
+      "2026-08-18": 21,
+      "2026-09-29": 0
     }
   },
   {
@@ -586,7 +587,7 @@
     "timeDay": 1636,
     "timeWeek": 1400,
     "timeMonth": 1359,
-    "timeYear": 738,
+    "timeYear": 739,
     "dailyMinutesDown": {
       "2026-04-19": 47,
       "2026-04-20": 109,
