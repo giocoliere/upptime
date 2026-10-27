@@ -79,7 +79,7 @@ status-website:
   
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.gioco.lol
+  cname: status.gioco.help
   # baseUrl: /your-repo-name
   logoUrl: https://giocoliere.dev/assets/img/logo.png
   name: Giocoliere | Status
