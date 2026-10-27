@@ -74,7 +74,7 @@ status-website:
     - name: "og:type"
       content: "website"
     - name: "og:url"
-      content: "https://status.gioco.lol"
+      content: "https://status.gioco.help"
     
   
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -88,13 +88,11 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Wesbsite
-      href: https://giocoliere.dev
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-    - title: CreeperHUB
-      href: https://creeperhub.net
-    - title: Creeepercraft
+    - title: W.I.P.
+      href: https://gioco.help
+    - title: CreeperHUB -> CREATIVITATIS
+      href: https://creeperhub.com
+    - title: CREEPERCRAFT
       href: https://creepercraft.net
     - title: OtakuForge
       href: https://creeperhub.net/otakuforge
