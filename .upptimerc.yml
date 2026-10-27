@@ -3,13 +3,13 @@ owner: giocoliere # Your GitHub organization or username, where this repository 
 repo: upptime # The name of this repository
 
 sites:
-  - name: Wesbsite v0.7
-    url: https://www.giocoliere.dev
+  - name: Wesbsite v0.7 (temp)
+    url: https://giocoliere.dev
     icon: https://giocoliere.dev/assets/img/logo.png
-  - name: Wesbsite v0.1
+  - name: Wesbsite v0.1 (old)
     url: https://gioco.is-a.dev
     icon: https://giocoliere.dev/assets/img/logo.png
-  - name: Giocoliere | Links
+  - name: Giocoliere - Links
     url: https://bio.gioco.help
     icon: https://giocoliere.dev/assets/img/logo.png
   - name: Giocoliere - gioco.help 
@@ -18,19 +18,19 @@ sites:
   - name: Humanaelitterae
     url: https://humanaelitterae.com
     icon: https://humanaelitterae.com/img/logo.png
-  - name: Lavalink Status - CreeperHUB
-    url: https://status.jukebox.creeperhub.net
+  - name: CreeperHUB - Lavalink Status
+    url: https://status.jukebox.creeperhub.com
     icon: https://creeperhub.net/logo.png
-  - name: Modmail Status - CreeperHUB
-    url: https://modmail.creeperhub.net
+  - name: CreeperHUB - Modmail Status
+    url: https://modmail.creeperhub.com
     icon: https://creeperhub.net/logo.png
-  - name: CreeperHUB
-    url: https://creeperhub.net
+  - name: CreeperHUB -> CREATIVITATIS
+    url: https://creeperhub.com
     icon: https://giocoliere.dev/assets/creepercraft/creeperhub.png
   - name: creepers.sbs
     url: https://creepers.sbs
     icon: https://creepers.sbs/assets/img/image.png
-  - name: Creepercraft
+  - name: CREEPERCRAFT
     url: https://creepercraft.net
     icon: https://giocoliere.dev/assets/creepercraft/logo.png
   - name: Otakuforge
