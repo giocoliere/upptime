@@ -40,17 +40,17 @@
     "url": "https://bio.gioco.help",
     "icon": "https://giocoliere.dev/assets/img/logo.png",
     "slug": "giocoliere-links",
-    "status": "down",
-    "uptime": "56.01%",
-    "uptimeDay": "88.83%",
-    "uptimeWeek": "98.40%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "41.55%",
-    "time": 1576,
-    "timeDay": 0,
-    "timeWeek": 2028,
-    "timeMonth": 2528,
-    "timeYear": 2283,
+    "status": "up",
+    "uptime": "56.00%",
+    "uptimeDay": "83.16%",
+    "uptimeWeek": "97.59%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "41.53%",
+    "time": 1577,
+    "timeDay": 1993,
+    "timeWeek": 2023,
+    "timeMonth": 2513,
+    "timeYear": 2281,
     "dailyMinutesDown": {
       "2025-11-11": 99,
       "2025-11-10": 6,
@@ -272,7 +272,7 @@
       "2026-07-20": 3,
       "2026-08-18": 21,
       "2026-09-29": 398,
-      "2026-11-07": 161
+      "2026-11-07": 242
     }
   },
   {
