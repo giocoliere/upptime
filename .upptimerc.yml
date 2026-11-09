@@ -36,8 +36,8 @@ sites:
   - name: Otakuforge
     url: https://creeperhub.net/otakuforge
   - name: CreeperLAB
-    url: https://creeperlab.org
-    icon: https://creeperlab.org/assets/img/image01.png
+    url: https://lab.creepercraft.net
+    icon: https://old.lab.creepercraft.net/assets/img/image01.png
 
     
 
@@ -97,7 +97,7 @@ status-website:
     - title: OtakuForge
       href: https://creeperhub.net/otakuforge
     - title: CreeperLAB
-      href: https://creeperlab.org
+      href: https://lab.creepercraft.net
     - title: Links
       href: https://guns.lol/giocoliere
 
