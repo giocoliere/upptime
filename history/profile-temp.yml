@@ -1,7 +1,7 @@
 url: https://giocoliere.dev
-status: up
-code: 200
-responseTime: 678
-lastUpdated: 2026-11-21T03:48:57.178Z
+status: down
+code: 502
+responseTime: 48
+lastUpdated: 2026-11-22T02:52:39.552Z
 startTime: 2026-11-17T19:28:39.847Z
 generator: Upptime <https://github.com/upptime/upptime>
